@@ -1,0 +1,12 @@
+{
+    "name": "AronNovak/pathauto",
+    "description": "AronNovak/pathauto",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "Aron Novak",
+            "email": "aron@gizra.com"
+        }
+    ],
+    "require": {}
+}
